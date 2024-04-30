@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@portabletext/react": "^3.0.18",
+    "next-sanity": "^9.0.12"
+  }
+}
